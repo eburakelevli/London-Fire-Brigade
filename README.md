@@ -1,20 +1,10 @@
 # London Fire Brigade - Data Mining Project
 Business Improvement and Solutions
 
-Determine Data Mining Goals
-This project aims to help LFB’s safety goal by understanding and analysing the historical data, learning from it and make suggestions accordingly. The study focuses on reducing the loss of life and property by serving faster, reducing the
-PAGE 2
-cost to serve better, and increasing the preparedness of LFB by answering the following:
-Business Questions:
-1. Whataretheeffectsoffireincidentsofdifferentpropertycategoriesonthe
-notional cost?
-2. Whataretheeffectsofdifferentincidentgroupsonthenotionalcost?
-3. PredictionofIncidentgroupforfalsealarmtoavoiddeployingpumps
-4. FiresoccurringindifferentareasofLondonbasedonhistoricaldataand
-demographics.
-5. Occurrenceofmultiplefiresinthesamebuildingorareaovertime.
-6. Numberofpumpsrequiredforanincidentreportedbasedonseverityof
-incident.
+● Detected that false alarm is +20% costly compare to other components of LFB through Python and Tableau
+● Applied algorithms to pinpoint key false alarm parameters, improving detection accuracy
+● Enhanced LFB's efficiency by 33.4% through proactive false alarm predictione algorithm
+
 Data Mining Tasks:
 1. Incident group prediction by a prediction algorithm,
 2. Incident group and property category affecting notional cost by a
